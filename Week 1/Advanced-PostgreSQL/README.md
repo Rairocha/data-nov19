@@ -6,7 +6,7 @@
 
 In this lab you will practice PostgreSQL Subqueries, Temp Tables, and Action Queries. **You will use the `publications` database**. You can find it in the lab card on Student Platform.
 
-Create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
+Create a `solutions.sql` file to record your solutions to all challenges.
 
 ## Challenge 1 - Most Profiting Authors
 
