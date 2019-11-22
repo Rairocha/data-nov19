@@ -30,7 +30,7 @@ Use pen and paper to create the design, take a picture with your phone and send 
 
 ## Challenge 2 - Create the Database and Tables
 
-1. **Create a MySQL database for this lab.** 
+1. **Create a PostgreSQL database for this lab.** 
 
 1. **Now, based on the database design you created, write the SQL query to create the tables and columns on the Query Tool.** You will be using the `CREATE TABLE` statement for which you can find reference [here](https://www.postgresql.org/docs/12/sql-createtable.html).
 
